@@ -1,0 +1,2 @@
+
+<p>Account created ! </p>
